@@ -1,0 +1,25 @@
+.Assign-body {
+    background: #000;
+    margin: 85px;
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+p {
+    color: chartreuse;
+}
+
+h4 {
+    color: cornsilk;
+}
+
+ul, ol {
+    color: darkgrey;
+}
