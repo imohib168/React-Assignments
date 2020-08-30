@@ -9,7 +9,7 @@ const MediaCard = ({ title, body, imageURL }) => {
             <br />
             <p> {body} </p>
             <br />
-            <img className="img" src={imageURL} alt="house-picture" />
+            <img className="img" src={imageURL} alt="house" />
         </div>
     )
 }
