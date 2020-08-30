@@ -1,4 +1,15 @@
-.App {
+body {
+  background-color: gray;
+}
+
+.head1 {
+  text-align: center;
+  color: yellow;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +46,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

@@ -5,7 +5,7 @@ const Assignment01 = ({ name }) => {
     return (
         <div className='Assign-body'>
             <div className="container">
-                <h1>Assignment 01 from Dave Cadia React Tutorial</h1>
+                <h1>Assignment 01 from Dave Ceddia React Tutorial</h1>
 
                 <hr />
 
